@@ -1,0 +1,23 @@
+{
+  "name": "atom-test-switcher",
+  "main": "./lib/atom-test-switcher",
+  "version": "0.0.1",
+  "description": "Switch between source and test files.",
+  "keywords": [
+    "ruby",
+    "test",
+    "test-unit",
+    "test/unit",
+    "tdd"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-test-switcher:toggle"
+  },
+  "repository": "https://github.com/atom/atom-test-switcher",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
