@@ -11,7 +11,7 @@
     "tdd"
   ],
   "activationCommands": {
-    "atom-workspace": "atom-test-switcher:toggle"
+    "atom-workspace": "atom-test-switcher:switch"
   },
   "repository": "https://github.com/atom/atom-test-switcher",
   "license": "MIT",
@@ -19,5 +19,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "glob-to-regexp": "^0.3.0"
   }
 }
