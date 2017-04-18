@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-test-switcher",
-        "command": "atom-test-switcher:toggle"
+        "label": "Switch atom-test-switcher",
+        "command": "atom-test-switcher:switch"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "atom-test-switcher",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-test-switcher:toggle"
+              "label": "Switch",
+              "command": "atom-test-switcher:switch"
             }
           ]
         }
