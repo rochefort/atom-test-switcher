@@ -13,7 +13,7 @@
   "activationCommands": {
     "atom-workspace": "atom-test-switcher:switch"
   },
-  "repository": "https://github.com/atom/atom-test-switcher",
+  "repository": "https://github.com/rochefort/atom-test-switcher",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

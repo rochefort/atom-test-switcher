@@ -1,5 +1,5 @@
 # atom-test-switcher package
 
-A short description of your package.
+Switch between source and test files.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of atom-test-switcher](https://raw.githubusercontent.com/rochefort/atom-test-switcher/master/atom-test-switcher.gif)
