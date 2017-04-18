@@ -1,7 +1,7 @@
 {
   "name": "atom-test-switcher",
   "main": "./lib/atom-test-switcher",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Switch between source and test files.",
   "keywords": [
     "ruby",
